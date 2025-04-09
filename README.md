@@ -1,0 +1,1 @@
+# LAB_ASSIGNMENT6_SOLID_with_Design-Pattern
